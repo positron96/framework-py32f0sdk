@@ -1,0 +1,15 @@
+{
+  "name": "framework-py32f0sdk",
+  "version": "1.0.0",
+  "description": "PY32F0xx SDK",
+  "keywords": [
+    "framework",
+    "Puya Semiconductor",
+    "py32"
+  ],
+  "license": "TBD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/positron96/framework-py32f0sdk"
+  }
+}
