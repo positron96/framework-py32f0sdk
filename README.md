@@ -18,3 +18,6 @@ build_flags =
  -DUSE_HAL_DRIVER
  -DUSE_BSP
 ```
+
+If you use HAL with `py32f0xx_hal_conf.h` file, place it in your project's `include` directory.
+The example of HAL project can be seen here: https://github.com/positron96/platform-py32f0/tree/master/examples/example-hal.
